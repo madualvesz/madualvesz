@@ -1,16 +1,17 @@
-## Hi there 👋
+<br>
+<p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=+Olá!+seja+bem+vindo(a)+!+;+Estudante+de+ADS+;+Adoro+tecnologia+&#x1F913+;">
+  </a>
+</p>
+<br><br>
 
-<!--
-**madualvesz/madualvesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  Meu nome é Maria Eduarda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+####  • Atualmente estudo JavaScript e Python
+
+####  • Pode me contatar no email madu.alvesbispo@gmail.com
+
+####  • I'm a Analysis and Development of Systems Student (2nd Period)
