@@ -7,7 +7,7 @@
 <br><br>
 
 
-##  Meu nome é Maria Eduarda
+## 
 
 
 ####  • Atualmente estudo JavaScript e Python
