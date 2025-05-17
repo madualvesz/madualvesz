@@ -8,7 +8,7 @@
 ## 
 
 
-####  • Atualmente estudo JavaScript e Python
+####  • Atualmente estudo java
 
 ####  • Pode me contatar no email madu.alvesbispo@gmail.com
 
