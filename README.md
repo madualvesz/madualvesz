@@ -8,7 +8,7 @@
 ## 
 
 
-####  • Atualmente estudo java
+####  • Em aprendizado contínuo, focada em tratamento de dados e análise de sistemas
 
 ####  • Pode me contatar no email madu.alvesbispo@gmail.com
 
